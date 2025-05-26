@@ -1,1 +1,11 @@
 # nmap
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-05-26 20:51 +0530
+Nmap scan report for 127013.cloudwaysapps.com (165.227.73.0)
+Host is up (0.044s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+21/tcp  open  ftp
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 18.76 seconds
